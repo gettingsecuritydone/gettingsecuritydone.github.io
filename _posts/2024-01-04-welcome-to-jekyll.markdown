@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to GSD"
+title:  "Welcome to Jekyll"
 date:   2024-01-04 14:20:25 -0500
 categories: jekyll update
 ---
