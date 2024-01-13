@@ -12,6 +12,17 @@ Mr. Beyer previously held leadership positions at [Global Payments][globalpaymen
 
 Mr. Beyer co-founded the Texas CISO Council, was a leader in the Austin chapters of [ISSA][austinissa.org] and [OWASP][owasp.org], and was a core team member of the [BSides Austin][bsidesaustin.com] and [LASCON][lascon.org] conferences. He holds a BS degree in Physics from Trinity University. Outside the office he is a martial artist and ultra-marathon runner.
 
+Interviews and Appearances
+--------------------------
+
+Speaking History
+----------------
+
+Publication History
+-------------------
+
+- [Tribe of Hackers: Security Leaders][toh:sl] - contributing author
+
 [etsy.com]: https://etsy.com
 [globalpayments.com]: https://www.globalpayments.com
 [advisory.com]: https://www.advisory.com
@@ -21,3 +32,4 @@ Mr. Beyer co-founded the Texas CISO Council, was a leader in the Austin chapters
 [owasp.org]: https://owasp.org/www-chapter-austin
 [bsidesaustin.com]: https://bsidesaustin.com
 [lascon.org]: https://lascon.org
+[toh:sl]: https://www.tribeofhackers.com
