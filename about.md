@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Here we will talk about how awesome Getting Security Done is, how it developed and what we want it to serve.
+This is the "About page." Some ideas that may fit here are things like: who (you!), what, why, where, when, why significant. Jean will be looking at the examples Phil sent by email to get more ideas for perhaps what might go here.
