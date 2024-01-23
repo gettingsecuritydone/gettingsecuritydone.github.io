@@ -1,7 +1,9 @@
 ---
 layout: page
-title: Philip J Beyer - Biography
+title: "Philip J Beyer - Biography"
 permalink: /bio/
+hide: true
+icon: "fa-book-atlas"
 ---
 
 Phil Beyer is the former Head of Security for [Etsy][etsy.com] (NASDAQ: ETSY), the global marketplace for unique and creative goods. He led the teams protecting buyers and sellers in support of the mission to Keep Commerce Human.
