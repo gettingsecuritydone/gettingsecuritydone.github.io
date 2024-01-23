@@ -1,6 +1,7 @@
 ---
 layout: page
-title: About
+title: "About"
+subtitle: "Background on GSD"
 permalink: /about/
 ---
 
