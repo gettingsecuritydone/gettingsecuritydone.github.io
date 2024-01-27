@@ -6,3 +6,4 @@ permalink: /about/
 ---
 
 about page
+test
