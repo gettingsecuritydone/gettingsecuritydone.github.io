@@ -3,6 +3,10 @@
 /* Variables */
 // All the options to customize your theme in one file
 @import 'base/variables';
+body {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 400;
+}
 
 /* External */
 // CSS from external sources
