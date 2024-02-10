@@ -3,16 +3,12 @@
 /* Variables */
 // All the options to customize your theme in one file
 @import 'base/variables';
-body {
-  font-family: 'Montserrat', sans-serif;
-  font-weight: 400;
-}
 
 /* External */
 // CSS from external sources
 @import 'external/reset';
 @import 'external/font-awesome';
-@import url("static/fonts/Montserrat/fonts/ttf/Montserrat.css");
+@import 'external/pacifico';
 @import 'external/katex';
 @import 'external/source-sans-pro';
 
@@ -57,3 +53,5 @@ Then create your _custom.scss right next to type-on-strap.scss and add in it all
 of the unique scss that your blog needs.
 
 */
+
+@import url("static/fonts/Montserrat/fonts/ttf/Montserrat.css");
