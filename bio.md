@@ -6,6 +6,13 @@ hide: true
 icon: "fa-book-atlas"
 ---
 
+<style>
+  body {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 400;
+}
+</style>
+
 Phil Beyer is the former Head of Security for [Etsy][etsy.com] (NASDAQ: ETSY), the global marketplace for unique and creative goods. He led the teams protecting buyers and sellers in support of the mission to Keep Commerce Human.
 
 Mr. Beyer is mission-driven to guide security leaders to higher effectiveness. He trains professionals in business communication and value creation. He advises several early stage companies, is a frequent speaker, and is actively involved in the professional community.
