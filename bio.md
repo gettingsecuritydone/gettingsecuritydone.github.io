@@ -6,20 +6,11 @@ hide: true
 icon: "fa-book-atlas"
 ---
 
-<style>
-  body {
-  font-family: 'Montserrat', sans-serif;
-  font-weight: 400;
-}
-</style>
+Phil Beyer leverages his extensive experience building and managing information security programs to empower leaders and deliver impactful results. He is passionate about guiding security teams towards success and has a proven track record of achieving tangible outcomes.
 
-Phil Beyer is the former Head of Security for [Etsy][etsy.com] (NASDAQ: ETSY), the global marketplace for unique and creative goods. He led the teams protecting buyers and sellers in support of the mission to Keep Commerce Human.
+Phil's strong leadership has benefited organizations like [Etsy][etsy.com], [Global Payments][globalpayments.com], [The Advisory Board Company][advisory.com], and the [Texas Education Agency][tea.texas.gov]. He also draws on his experience as a Lead Consultant at [Denim Group][denimgroup.com] and the creator of Getting Security Done, a program for improving security professionals' communication and value creation skills.
 
-Mr. Beyer is mission-driven to guide security leaders to higher effectiveness. He trains professionals in business communication and value creation. He advises several early stage companies, is a frequent speaker, and is actively involved in the professional community.
-
-Mr. Beyer previously held leadership positions at [Global Payments][globalpayments.com], [The Advisory Board Company][advisory.com] (acquired by UnitedHealth Group), and the [Texas Education Agency][tea.texas.gov], and was a Lead Consultant at [Denim Group][denimgroup.com] (acquired by Coalfire).
-
-Mr. Beyer co-founded the Texas CISO Council, was a leader in the Austin chapters of [ISSA][austinissa.org] and [OWASP][owasp.org], and was a core team member of the [BSides Austin][bsidesaustin.com] and [LASCON][lascon.org] conferences. He holds a BS degree in Physics from Trinity University. Outside the office he is a martial artist and ultra-marathon runner.
+Beyond his professional pursuits, Phil is a frequent speaker and active contributor to the security community. He co-founded the Texas CISO Council, held leadership positions in Austin chapters of [ISSA][austinissa.org] and [OWASP][owasp.org], and was a core team member of the [BSides Austin][bsidesaustin.com] and [LASCON][lascon.org] conferences, demonstrating his commitment to collaboration and knowledge sharing. With a BS in Physics from [Trinity University][trinity.edu], Phil's lifelong learning mindset extends beyond work, reflected in his passion for ultra-marathons and martial arts – disciplines that embody his dedication to resilience and excellence.
 
 Interviews and Appearances
 --------------------------
@@ -41,4 +32,5 @@ Publication History
 [owasp.org]: https://owasp.org/www-chapter-austin
 [bsidesaustin.com]: https://bsidesaustin.com
 [lascon.org]: https://lascon.org
+[trinity.edu]: https://trinity.edu
 [toh:sl]: https://www.tribeofhackers.com
