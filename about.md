@@ -3,13 +3,10 @@ layout: page
 title: About
 permalink: /about/
 ---
-
 The What, the Why and the How
-                        …and the Who
-====================================
+										…and the Who
 
 Just what is information security?  
------------------------------------
 
 The textbook definition from NIST (spell this out) says, information security is “[t]he protection of information and information systems from unauthorized access, use, disclosure, disruption, modification, or destruction in order to provide confidentiality, integrity, and availability.”  https://csrc.nist.gov/glossary/term/information_security
 
