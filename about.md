@@ -4,35 +4,23 @@ title: About
 permalink: /about/
 ---
 
-> About. How long do we want this to be?  Research others’ “About” pages for a clue
+The What, the Why and the How
+                        …and the Who
+====================================
 
-The Brass Tacks
-===============
+Just what is information security?  
+-----------------------------------
 
-Getting Security Done (GSD) is information security consultancy that focuses on education/training, advising, mentoring, and providing program management responsibilities through such avenues as fractional CISO work, virtual CISO, and CISO coaching.
+The textbook definition from NIST (spell this out) says, information security is “[t]he protection of information and information systems from unauthorized access, use, disclosure, disruption, modification, or destruction in order to provide confidentiality, integrity, and availability.”  https://csrc.nist.gov/glossary/term/information_security
 
-How did it all start and why?
------------------------------
+You may be thinking, “Of course I want to protect my company, my employees, and my customers, but why do I need a full-fledged security program to do that—or do I?"
 
-There is a crossroads in business where leaders know there is a need for security.  Simultaneously, security leaders need to know how to communicate with business leaders.  Crossing the chasm is often not easy.  It can be frustrating for executives who want to get things done, as well as for security professionals who want to keep out the bad guys.  Even though both groups are on the same team, sometimes it can feel like the agenda conflict is too great to make real progress.  Professionals on both sides feel stifled.  They talk past each other and too often dig in their heels without really appreciating or understanding the others’ perspective.
+Good question!  For many companies, having a mature security program really isn’t a do-or-die scenario.  Some people like to talk as if a company needs a security program to prevent complete failure.  There just isn’t a lot of evidence to support that level of dire concern.  
 
-At least, that’s the way it seemed back when GSD was created.  Fortunately, there has been a lot of traction in the last decade to help bridge that gap.  There is still work to do, and this is the kind of work I find exciting, and that gap-bridging work is what I love.  I bring a wealth of experience as both a security leader \[give examples\], as well as deep appreciation and understanding of business priorities \[give examples:  mention MBA McCombs program?\]
+However, mitigating risk is a good reason for a mature and healthy security program.  What does“risk” mean?  Risk is “a function of the threats, assets, controls and impact factors (e.g., laws, etc.) that drive loss exposure.” [see https://www.fairinstitute.org/fair-risk-management].  See also https://youtu.be/uNvSSU6Toz4?si=PPUjHioNNurNiA6G.). Examples of the kind of loss exposure meant are hacking, ransomware, denial of service attack, defacement, data breach, data corruption, data loss, service outage, bad press, litigation (civil and/or criminal), governmental oversight, fines/penalties, intellectual property theft, loss of customer trust, degraded customer experience, to name a few.  At its core, information security mitigates and prevents disruptions that can occur by a nefarious event.
 
-I love helping companies succeed.  I love clearing roadblocks and facilitating the kind of communication that finds mutual respect and promises effective progress for companies in a way that also limits the risk.  But, let’s back up.  What exactly do we mean when we say, “risk?”
+To bring information security to a company effectively, the consultant and the leadership must work closely at first to ensure everyone is in agreement about what the risk tolerance is for the particular company at the particular time.  Some may want an all-encompassing program while others may wish only to target particular key areas.  I have extensive experience with both full programs and with specific targeted areas.  Through dialog, I can identify key vulnerabilities and offer recommendations for addressing those vulnerabilities.  I have deep appreciation for a company’s desire to protect itself, but also to stay within often tight budgets.  Please see [this link, coming soon] for a full list of services I can provide.
 
-Defining our Terms
-------------------
+This brings us to…who will guide your company in becoming secure?  I think I’m a swell guy, and lots (link) of others seem to agree.  Who am I?  Well, (bio paragraph with dashing photo) My philosophy is (brief statement).  My experience is (summary).  My particular strengths are (brief synopsis).  
 
-_Discuss “risk” here.  Consider the bald tire analogy.  I propose a video instead to keep the content page more navigable._
-
-What other terms need defining?
-
-What general problems does security address?
-
-Why does it matter?
-
-Must we speak in terms of negatives, or can we reframe it in positive terms? _Let Phil’s approach shine here._  Give examples.
-
----
-
-I’d love to have a conversation.  I love to dig in and dive deep.  For those of you who know me, you know I love information exchange!  So, let’s get started!
+We all know that no one can be all things to all people.  The most secure entity is one that is part of a collaborative whole, a community.  I would love to serve you!  If, however, you aren’t sure about our fit, I encourage you to also check out these stellar professionals who could benefit you.  I have many talented colleagues in the security community.  
