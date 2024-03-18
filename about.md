@@ -24,7 +24,7 @@ Getting Security Done, Inc. is a business dedicated to assisting and protecting 
 
 > At its core, information security mitigates and prevents disruptions that can occur by a nefarious event.
 
-I (Phil Beyer) have extensive experience with both full programs and with specific targeted areas. Through dialog, I can identify key vulnerabilities and offer recommendations for addressing those vulnerabilities. I have deep appreciation for a company’s desire to protect itself, but also to stay within often tight budgets. Please see [this link, coming soon] for a full list of services I can provide.
+I ([Phil Beyer](https://gettingsecuritydone.github.io/bio/)) have extensive experience with both full programs and with specific targeted areas. Through dialog, I can identify key vulnerabilities and offer recommendations for addressing those vulnerabilities. I have deep appreciation for a company’s desire to protect itself, but also to stay within often tight budgets. Please see [this link, coming soon] for a full list of services I can provide.
 
 Who is responsible for guiding your company into becoming more secure? GSD’s effectiveness is reflected through our client testimonials. (link to come) Who am I?  Well, (bio paragraph with dashing photo) My philosophy is (brief statement). My experience is (summary). My particular strengths are (brief synopsis).  
 
