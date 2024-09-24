@@ -8,4 +8,4 @@ group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
 end
 
-gem "webrick", "~> 1.8"
+gem "webrick", "~> 1.8", ">= 1.8.2"
