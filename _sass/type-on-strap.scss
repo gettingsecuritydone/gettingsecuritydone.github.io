@@ -3,6 +3,13 @@
 /* Variables */
 // All the options to customize your theme in one file
 @import 'base/variables';
+@import 'variables';
+@import 'global';
+
+// Body font
+body {
+  font-family: $font-family-main;
+}
 
 /* External */
 // CSS from external sources
